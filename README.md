@@ -1,2 +1,2 @@
-# node-vue-_-test
-node + vue 全站项目练习
+# node-vue_test
+node + vue 全栈项目练习
